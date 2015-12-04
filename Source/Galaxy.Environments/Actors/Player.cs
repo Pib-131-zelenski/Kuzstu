@@ -12,7 +12,7 @@ namespace Galaxy.Environments.Actors
   {
     #region Constant
 
-    private const int Speed = 4;
+    private const int Speed = 3;
 
     #endregion
 

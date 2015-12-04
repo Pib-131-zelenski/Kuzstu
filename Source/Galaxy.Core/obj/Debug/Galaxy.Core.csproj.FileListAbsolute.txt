@@ -8,6 +8,16 @@ C:\Users\dartNNN\Documents\Galaxy\Build\Assets\deth.png
 C:\Users\dartNNN\Documents\Galaxy\Build\Assets\FailScreen.png
 C:\Users\dartNNN\Documents\Galaxy\Build\Assets\StartScreen.png
 C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csprojResolveAssemblyReference.cache
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\deth.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\FailScreen.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\StartScreen.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Galaxy.Core.dll
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Galaxy.Core.pdb
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csprojResolveAssemblyReference.cache
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Core\obj\Debug\Interop.WMPLib.dll
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csproj.ResolveComReference.cache
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.dll
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.pdb
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\deth.png
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\FailScreen.png
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\StartScreen.png
@@ -18,13 +28,3 @@ C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galax
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csproj.ResolveComReference.cache
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.dll
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.pdb
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\deth.png
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\FailScreen.png
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\StartScreen.png
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.Core.dll
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.Core.pdb
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csprojResolveAssemblyReference.cache
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Core\obj\Debug\Interop.WMPLib.dll
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.csproj.ResolveComReference.cache
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.dll
-C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Core\obj\Debug\Galaxy.Core.pdb

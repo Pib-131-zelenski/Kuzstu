@@ -5,7 +5,6 @@ using System.Diagnostics;
 using System.Drawing;
 using System.Threading;
 using System.Windows.Forms;
-using Galaxy.Core.Actors;
 using Galaxy.Core.Environment;
 
 #endregion
@@ -41,7 +40,9 @@ namespace Galaxy.Core.Engine
       {
         return;
       }
-      Level = new StartScreen(); 
+
+      Level = new StartScreen();
+
       IsRunning = true;
       h_runningThread = new Thread(h_threadRun);
       h_runningThread.Start();
@@ -60,16 +61,14 @@ namespace Galaxy.Core.Engine
     {
       var framecounter = new Stopwatch();
       var tickcounter = new Stopwatch();
-      var levelTimeCounter = new Stopwatch();
 
       while (IsRunning)
       {
-        levelTimeCounter.Start();
         framecounter.Start();
         tickcounter.Start();
 
         h_tick();
-           
+
         tickcounter.Stop();
 
         var targettime = 1f / m_targetFps * 1000f;
@@ -83,17 +82,12 @@ namespace Galaxy.Core.Engine
         tickcounter.Reset();
         framecounter.Stop();
 
-        if (framecounter.ElapsedMilliseconds < 10)
+        if (framecounter.ElapsedMilliseconds < 1000)
         {
           continue;
         }
 
         framecounter.Reset();
-          if (levelTimeCounter.ElapsedMilliseconds > 15000)
-          {
-              levelTimeCounter.Reset();
-              Level.Failed = true;              
-          }
       }
     }
 
@@ -110,7 +104,7 @@ namespace Galaxy.Core.Engine
 
           if (Level.Success)
               Level = Level.NextLevel();
-          
+
           if (Level.Failed)
           {
               Level = new FailScreen();
@@ -126,7 +120,7 @@ namespace Galaxy.Core.Engine
           }));
 
       }
-      
+
       #endregion
 
     #region Props
@@ -152,4 +146,3 @@ namespace Galaxy.Core.Engine
     #endregion
   }
 }
- 

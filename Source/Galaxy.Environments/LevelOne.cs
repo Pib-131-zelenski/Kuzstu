@@ -1,5 +1,6 @@
 ﻿#region using
 
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
@@ -13,7 +14,7 @@ using Galaxy.Environments.Actors;
 namespace Galaxy.Environments
 {
     /// <summary>
-    ///     The level class for Open Mario.  This will be the first level that the player interacts with.
+    ///   The level class for Open Mario.  This will be the first level that the player interacts with.
     /// </summary>
     public class LevelOne : BaseLevel
     {
@@ -22,7 +23,7 @@ namespace Galaxy.Environments
         #region Constructors
 
         /// <summary>
-        ///     Initializes a new instance of the <see cref="LevelOne" /> class.
+        ///   Initializes a new instance of the <see cref="LevelOne" /> class.
         /// </summary>
         public LevelOne()
         {
@@ -30,24 +31,15 @@ namespace Galaxy.Environments
             FileName = @"Assets\LevelOne.png";
 
             // Enemies
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 1; i++)
             {
-                if (i/2 == 0)
-                {
-                    var ship = new Ship(this);
-                    int positionY = ship.Height + 10;
-                    int positionX = 150 + i*(ship.Width + 50);
-                    ship.Position = new Point(positionX, positionY);
-                    Actors.Add(ship);
-                }
-                else
-                {
-                    var ship0 = new Ship0(this);
-                    int positionY = ship0.Height + 10;
-                    int positionX = 150 + i*(ship0.Width + 50);
-                    ship0.Position = new Point(positionX, positionY);
-                    Actors.Add(ship0);
-                }
+                var ship = new Ship(this);
+                int positionY = ship.Height + 10;
+                int positionX = 150 + i*(ship.Width + 50);
+
+                ship.Position = new Point(positionX, positionY);
+
+                Actors.Add(ship);
             }
             for (int i = 0; i < 3; i++)
             {
@@ -70,14 +62,14 @@ namespace Galaxy.Environments
         #endregion
 
         #region Overrides
-
+        
         private void EnemyShip()
         {
             //пули создаются  
             Ship2[] enshipShip2s = Actors.Where(actor => actor is Ship2).Cast<Ship2>().ToArray();
             if (!IsPressed(VirtualKeyStates.Space)) return;
             {
-                foreach (Ship2 ship2 in enshipShip2s)
+                foreach (var ship2 in enshipShip2s)
                 {
                     Actors.Add(ship2.CreatEnemyBullet(ship2));
                 }
@@ -86,9 +78,9 @@ namespace Galaxy.Environments
 
             //пули, долетевшие до низа, уничтожаются
             EnemyBullet[] bullets = Actors.Where(actor => actor is EnemyBullet).Cast<EnemyBullet>().ToArray();
-            foreach (EnemyBullet bul in bullets)
+            foreach (var bul in bullets)
             {
-                if (bul.Position.Y >= DefaultHeight)
+                if (bul.Position.Y >= BaseLevel.DefaultHeight)
                 {
                     Actors.Remove(bul);
                 }
@@ -103,7 +95,7 @@ namespace Galaxy.Environments
             if (m_frameCount%10 != 0) return;
 
 
-            var bullet = new Bullet(this)
+            Bullet bullet = new Bullet(this)
             {
                 Position = Player.Position
             };
@@ -134,7 +126,7 @@ namespace Galaxy.Environments
             }
 
             List<BaseActor> toRemove = Actors.Where(actor => actor.CanDrop).ToList();
-            var actors = new BaseActor[toRemove.Count()];
+            BaseActor[] actors = new BaseActor[toRemove.Count()];
             toRemove.CopyTo(actors);
 
             foreach (BaseActor actor in actors.Where(actor => actor.CanDrop))

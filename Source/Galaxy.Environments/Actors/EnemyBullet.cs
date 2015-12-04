@@ -29,7 +29,7 @@ namespace Galaxy.Environments.Actors
         #region Overrides
         public override void Load()
         {
-             Load(@"Assets\BulletShip.png");
+             Load(@"Assets\bulletship.png");
         }
 
 

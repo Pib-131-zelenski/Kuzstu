@@ -81,16 +81,16 @@ namespace Galaxy.Environments.Actors
 
     #region Private methods
 
-      protected virtual void h_changePosition()
+      public virtual void h_changePosition()
     {
-      var playerPosition = Info.GetPlayerPosition();
+      Point playerPosition = Info.GetPlayerPosition();
 
-      var distance = new Vector(playerPosition.X - Position.X, playerPosition.Y - Position.Y);
-      var coef = distance.X / MaxSpeed;
+      Vector distance = new Vector(playerPosition.X - Position.X, playerPosition.Y - Position.Y);
+      double coef = distance.X / MaxSpeed;
 
-      var movement = Vector.Divide(distance, coef);
+      Vector movement = Vector.Divide(distance, coef);
 
-      var levelSize = Info.GetLevelSize();
+      Size levelSize = Info.GetLevelSize();
 
       if(movement.X > levelSize.Width)
         movement = new Vector(levelSize.Width, movement.Y);
@@ -104,7 +104,7 @@ namespace Galaxy.Environments.Actors
       if(movement.Y < 0 ||  double.IsNaN(movement.Y))
         movement = new Vector(movement.X, 0);
 
-      Position = new Point((int) (Position.X + MaxSpeed), (int) (Position.Y ));
+      Position = new Point((int) (Position.X + movement.X + 0.5), (int) (Position.Y + movement.Y + 0.5));
     }
 
     #endregion
