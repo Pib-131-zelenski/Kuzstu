@@ -1,0 +1,52 @@
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\deth.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\FailScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\StartScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\bullet.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\LevelOne.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\player.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\ship.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\deth.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\FailScreen.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\StartScreen.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\bullet.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\LevelOne.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\player.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Assets\ship.png
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Galaxy.Environments.dll
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Build\Galaxy.Environments.pdb
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\учеба\Учеба_5_сем\ПИ\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\deth.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\bullet.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\player.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\bulletship.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\deth.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bullet.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bulletship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\player.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb

@@ -1,0 +1,58 @@
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.exe.config
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.exe
+C:\Users\dartNNN\Documents\Galaxy\Build\Galaxy.pdb
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\dartNNN\Documents\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\deth.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\FailScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\StartScreen.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\bullet.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\LevelOne.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\player.png
+C:\Users\dartNNN\Documents\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\OldGalaxy\Galaxy\Build\Galaxy.exe.config
+C:\Users\Андрей Эддуардович\Desktop\OldGalaxy\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\OldGalaxy\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\Универ\OldGalaxy\Galaxy\Build\Galaxy.exe.config
+C:\Users\Андрей Эддуардович\Desktop\Универ\OldGalaxy\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\Универ\OldGalaxy\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Galaxy.exe.config
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\deth.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\bullet.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\player.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\bulletship.png
+C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.exe.config
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\deth.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bullet.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bulletship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\player.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
