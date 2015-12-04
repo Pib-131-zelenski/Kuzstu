@@ -57,6 +57,21 @@ C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galax
 C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.exe.config
 C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
 C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\deth.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bullet.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bulletship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\player.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.exe
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.pdb
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.MainForm.resources
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.Properties.Resources.resources
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.csproj.GenerateResource.Cache
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\galaxy-beta 2.0\Galaxy\Build\Galaxy.exe.config
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.exe
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\galaxy-beta 2.0\Galaxy\Source\Galaxy\obj\Debug\Galaxy.pdb

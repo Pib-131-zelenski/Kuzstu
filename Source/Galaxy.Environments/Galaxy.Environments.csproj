@@ -48,6 +48,7 @@
     <Compile Include="Actors\Player.cs" />
     <Compile Include="Actors\Ship.cs" />
     <Compile Include="Actors\Bullet.cs" />
+    <Compile Include="Actors\Ship0.cs" />
     <Compile Include="Actors\Ship2.cs" />
     <Compile Include="LevelOne.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

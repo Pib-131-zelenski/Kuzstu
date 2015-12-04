@@ -15,13 +15,7 @@ namespace Galaxy.Environments.Actors
     public class Ship2 : Ship
     {
 
-        #region Private fields
-
-        private bool m_flying;
-        private Stopwatch m_flyTimer;
-
-        #endregion
-
+        
         #region Constructors
 
         public Ship2(ILevelInfo info)
@@ -54,8 +48,7 @@ namespace Galaxy.Environments.Actors
         }
         #endregion
 
-
-        public override void h_changePosition()
+        protected override void h_changePosition()
         {
             Position = new Point((int)(Position.X), (int)(Position.Y ));
         }

@@ -31,15 +31,27 @@ namespace Galaxy.Environments
             FileName = @"Assets\LevelOne.png";
 
             // Enemies
-            for (int i = 0; i < 1; i++)
+            for (int i = 0; i < 5; i++)
             {
-                var ship = new Ship(this);
-                int positionY = ship.Height + 10;
-                int positionX = 150 + i*(ship.Width + 50);
 
-                ship.Position = new Point(positionX, positionY);
 
-                Actors.Add(ship);
+                if (i / 2 == 0)
+                {
+                    var ship = new Ship(this);
+                    int positionY = ship.Height + 10;
+                    int positionX = 150 + i * (ship.Width + 50);
+                    ship.Position = new Point(positionX, positionY);
+                    Actors.Add(ship);
+                }
+                else
+                {
+                    var ship0 = new Ship0(this);
+                    int positionY = ship0.Height + 10;
+                    int positionX = 150 + i * (ship0.Width + 50);
+                    ship0.Position = new Point(positionX, positionY);
+                    Actors.Add(ship0);
+                }
+
             }
             for (int i = 0; i < 3; i++)
             {

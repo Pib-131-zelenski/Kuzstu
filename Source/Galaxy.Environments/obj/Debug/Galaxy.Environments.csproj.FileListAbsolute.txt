@@ -36,3 +36,17 @@ C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galax
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\bulletship.png
 C:\Users\Андрей Эддуардович\Desktop\Новая папка\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\deth.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\FailScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\StartScreen.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bullet.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\bulletship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\LevelOne.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\player.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\ship.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Assets\shipppper.png
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.Environments.dll
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Build\Galaxy.Environments.pdb
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.csprojResolveAssemblyReference.cache
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.dll
+C:\Users\Андрей Эддуардович\Desktop\galaxy-beta 2.0\Galaxy\Source\Galaxy.Environments\obj\Debug\Galaxy.Environments.pdb
