@@ -3,6 +3,7 @@
 using System;
 using System.Diagnostics;
 using System.Drawing;
+using System.Runtime.Remoting.Activation;
 using Galaxy.Core.Environment;
 
 #endregion
@@ -57,6 +58,7 @@ namespace Galaxy.Core.Actors
 
     public virtual void Draw(Graphics g)
     {
+      //  g.DrawString(Engine.Engine.h_threadRun(mil));
       g.DrawImage(Image, Position.X, Position.Y);
     }
 
@@ -92,6 +94,7 @@ namespace Galaxy.Core.Actors
 
     public void Load(string fileName)
     {
+      
       Image = (Bitmap) System.Drawing.Image.FromFile(fileName);
       Image = new Bitmap(Image, new Size(Width, Height));
     }
